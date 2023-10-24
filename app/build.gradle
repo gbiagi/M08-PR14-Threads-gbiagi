@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace 'com.example.m08_pr14_threads_gbiagi'
-    compileSdk 33
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.example.m08_pr14_threads_gbiagi"
         minSdk 24
-        targetSdk 33
+        targetSdk 34
         versionCode 1
         versionName "1.0"
 
